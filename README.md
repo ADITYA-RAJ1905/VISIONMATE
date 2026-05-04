@@ -35,16 +35,16 @@ pyttsx3 (Text-to-Speech)
 📂 Project Structure
 VisionMate/
 │
-├── app.py                # Main application (real-time system)
-├── main.ipynb           # Model experiments / training
-├── pothole_model/       # Trained model (optional, may be excluded)
-├── datasets/            # Dataset (ignored in Git)
+├── app.py                
+├── main.ipynb          
+├── pothole_model/       
+├── datasets/      
 ├── README.md
 └── requirements.txt
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/visionmate-ai-assistant.git
-cd visionmate-ai-assistant
+git clone https://github.com/ADITYA-RAJ1905/VISIONMATE
+cd VISIONMATE
 2. Run the application
 streamlit run app.py
 🎯 Example Outputs
