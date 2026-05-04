@@ -40,7 +40,7 @@ VisionMate/
 ├── pothole_model/       
 ├── datasets/      
 ├── README.md
-└── requirements.txt
+
 🚀 Getting Started
 1. Clone the repository
 git clone https://github.com/ADITYA-RAJ1905/VISIONMATE
