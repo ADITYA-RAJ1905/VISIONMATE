@@ -1,8 +1,13 @@
 main.ipynb
-app.py
+
 
 *.jpeg
 *.jpg
 
 *.docx
 *.pdf
+pothole/
+*.zip
+*.jpg
+*.png
+*.txt
